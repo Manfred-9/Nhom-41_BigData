@@ -12,7 +12,9 @@ Lưu trữ và xử lý dữ liệu thương mại điện tử với dữ liệ
 
 ## Dữ liệu được lưu trong Cassandra
 
-![du lieu trong cassandra](![Alt text](Untitled%20(4).png))
+
+![Du lieu trong cassandra](./imgs/Untitled%20(4).png)
+
 ## Spark
 
 1. Batch Processing:
